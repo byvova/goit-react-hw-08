@@ -1,0 +1,13 @@
+.formContainer{
+    border: 1px solid black;
+    width: 300px;
+}
+
+.formText{
+    margin: 5px;
+}
+
+.formBtn{
+    border: 1px solid black;
+    margin: 10px 0;
+}
